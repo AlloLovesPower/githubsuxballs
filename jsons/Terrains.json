@@ -249,7 +249,7 @@
 		"movementCost": 1,
 		"unbuildable": true,
 		"defenceBonus": -0.1,
-		"occursOn": ["Ocean", "Lagoon", "Lakes"],
+		"occursOn": ["Ocean", "Lakes"],
 		"uniques": ["Fresh water", "Rare feature",
 					"Only [All Road] improvements may be built on this tile",
 					"Always Fertility [4] for Map Generation",

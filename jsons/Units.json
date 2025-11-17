@@ -26,7 +26,6 @@
 		"strength": 5,
 		"cost": 25,
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
     	{
@@ -38,7 +37,6 @@
 		"cost": 25,
         "uniqueTo": "Dragon Domain",
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
         	{
@@ -68,7 +66,6 @@
 		"strength": 5,
 		"cost": 25,
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
 /*	{
