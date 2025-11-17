@@ -1,0 +1,40 @@
+MyTerrain.png
+size: 2048, 109
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Ocean
+  rotate: false
+  xy: 0, 0
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland
+  rotate: false
+  xy: 120, 0
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes
+  rotate: false
+  xy: 240, 0
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow
+  rotate: false
+  xy: 360, 0
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains
+  rotate: false
+  xy: 600, 0
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+MyUnits.png
+size: 2048, 150
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Draconic Origin Maker
+  rotate: false
+  xy: 0, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Draconic Scout
+  rotate: false
+  xy: 120, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Draconic Builder
+  rotate: false
+  xy: 240, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Angelic Origin Maker
+  rotate: false
+  xy: 360, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Angelic Scout
+  rotate: false
+  xy: 480, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Angelic Builder
+  rotate: false
+  xy: 600, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+  
