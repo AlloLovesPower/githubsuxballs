@@ -1,1 +1,616 @@
+[
+	//Spectator
+    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+ 
+        {
+		"name": "Dragon Domain",
+		"leaderName": "Versia",
+		"adjective": ["Draconic"],
+		"startBias": ["[Grassland]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Versia",
+        "style": "DragonDomainStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [41,4,14],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Crimson Sky",
+		"uniqueName": "Wuv",
+		"uniques": ["Gain control over [12] tiles [in this city] <upon founding a city>", "[+1 Food, +1 Happiness] per [1] population [in all cities]", "City-State territory always counts as friendly territory"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+    {
+		"name": "Beyond",
+		"leaderName": "Goddess",
+		"adjective": ["Evaerian"],
+		"startBias": ["[Snow]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Goddess",
+
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+        
+		"tradeRequest": "meow! meowmeow meow!",
+        "style": "BeyondStyle",
+		"outerColor": [77, 107, 107],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[+2 Food] [in all cities]"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+
+    
+    
+    
+    {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Melodia",
+		"leaderName": "Starlight",
+		"adjective": ["Melodia"],
+		"startBias": ["[Plains]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Starlight",
+
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+        
+		"tradeRequest": "meow! meowmeow meow!",
+        "style": "MelodiaStyle",
+		"outerColor": [212, 201, 135],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["Unable to capture cities", "May not annex cities", "Unable to pillage tiles", "[+2 Culture, +2 Food] [in all cities]", "City-State territory always counts as friendly territory", "[-80]% unhappiness from the number of cities", "Each city founded increases culture cost of policies [+80]% less than normal", "Each city founded increases Science cost of Technologies [+80]% less than normal"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    /*
+    {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Wuvlets",
+		"leaderName": "Wittle Wuv",
+		"adjective": ["Wuvlian"],
+		"startBias": ["[Grassland]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Wittle Wuv",
+
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+        
+		"tradeRequest": "meow! meowmeow meow!",
+        "style": "WuvletsStyle",
+		"outerColor": [93,130,79],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["Unable to capture cities", "May not annex cities", "Unable to pillage tiles", "[+2 Culture, +2 Food] [in all cities]", "City-State territory always counts as friendly territory", "[-80]% unhappiness from the number of cities", "Each city founded increases culture cost of policies [+80]% less than normal", "Each city founded increases Science cost of Technologies [+80]% less than normal"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+
+
+        {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Everfree",
+		"leaderName": "Starlight",
+		"adjective": ["Ever"],
+		"startBias": ["[Energy]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Starlight",
+        "style": "EverfreeStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [70,31,148],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[Great Scientist] is earned [50]% faster", "[Great Artist] is earned [50]% faster", "[Great Engineer] is earned [50]% faster", "[Great Prophet] is earned [50]% faster", "[Great General] is earned [50]% faster", "[Great Merchant] is earned [50]% faster"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+
+        {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "The Deep Forest",
+		"leaderName": "Bask",
+		"adjective": ["Forest"],
+		"startBias": ["[Dense Forest]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Bask",
+        "style": "TheDeepForestStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+     //special worker with 'make forest'
+     //cant cut forests
+     //unimproved tiles autobecome forests
+		"outerColor": [6,43,12],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[+2 Culture, +2 Production, +2 Food] from [Forest] tiles [in all cities]", "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+            {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Techni",
+		"leaderName": "Lek",
+		"adjective": ["Tech"],
+		"startBias": ["[Light Forest]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Lek",
+        "style": "TechniStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [92,85,28],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["Can build [all] improvements at a [+50]% rate"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+            {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Unity",
+		"leaderName": "Conquest",
+		"adjective": ["United"],
+		"startBias": ["[Unitech]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Conquest",
+        "style": "UnityStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [19,22,207],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[+80]% Health from pillaging tiles", "[+80]% Yield from pillaging tiles"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+
+            {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Starra",
+		"leaderName": "Brame",
+		"adjective": ["Starran"],
+		"startBias": ["[Grassland]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Conquest",
+         "style": "StarraStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+ 		"hateHello": "meow",
+        //+20% mility strength in borders
+        //
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [70,13,128],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[+2 Production] per [1] population [in all cities]", "Units in cities cost no Maintenance", "Enemy [all] units must spend [1] extra movement points when inside your territory"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+                {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Sanctuary",
+		"leaderName": "Dancer",
+		"adjective": ["Light"],
+		"startBias": ["[Bright Forest]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Conquest",
+        "style": "SanctuaryStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [8,133,12],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[-40]% Culture cost of natural border growth [in all cities]","[+4 Culture, +4 Gold] for every known Natural Wonder"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+                    {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Genetica",
+		"leaderName": "Meeba",
+		"adjective": ["Genetic"],
+		"startBias": ["[Lifeforce]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Conquest",
+        "style": "GeneticaStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [83,122,120],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["Can build [all] improvements at a [+50]% rate", "New [all] units start with [4] XP [in all cities]"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+                        {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Elava Coven",
+		"leaderName": "Witch",
+		"adjective": ["Elavan"],
+		"startBias": ["[Light Forest]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Conquest",
+        "style": "ElavaCovenStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [184,29,245],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion", "[+20]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [8] tiles away"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+                            {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Underworld",
+		"leaderName": "Ulta",
+		"adjective": ["Under"],
+		"startBias": ["[Swamp]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Conquest",
+        "style": "UnderworldStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [29,6,46],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Underlay",
+		"uniqueName": "Wuv",
+		"uniques": ["When defeating a [Wounded] unit, earn [9] Gold and recruit it"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+                                {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Aerie",
+		"leaderName": "Enu Skyfeather",
+		"adjective": ["Aerian"],
+		"startBias": ["[Light Forest]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Conquest",
+        "style": "AerieStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [39,173,207],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["Enables embarkation for land units", "Enables [all] units to enter ocean tiles", "Units ignore terrain costs when moving into any tile with Hills"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+                                    {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Cult of Abyssal Power",
+		"leaderName": "Ish",
+		"adjective": ["Cultist"],
+		"startBias": ["[Lava]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Conquest",
+        "style": "CultofAbyssalPowerStyle",
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+
+		"tradeRequest": "meow! meowmeow meow!",
+
+		"outerColor": [252,5,5],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[30] units cost no maintenance"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    
+          {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Laja Ram",
+		"leaderName": "Rast",
+		"adjective": ["Lajain"],
+		"startBias": ["[Snow]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Rast",
+
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+        
+		"tradeRequest": "meow! meowmeow meow!",
+        "style": "LajaRamStyle",
+		"outerColor": [97, 23, 12],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[+2 Production] from [Snow] tiles [in all cities]"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+     {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "Faerin",
+		"leaderName": "Magnanima",
+		"adjective": ["Faer"],
+		"startBias": ["[Fey Forest]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Magnanima",
+
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+        
+		"tradeRequest": "meow! meowmeow meow!",
+        "style": "FaerinStyle",
+		"outerColor": [73, 255, 28],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["[+2 Food] [in all cities]"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+    */
+    {
+		"name": "Ancient One",
+		"adjective": ["Ancient"],
+		"cityStateType": "AncientGrowth",
+
+		"declaringWar": "meow!",
+		"attacked": "dong!",
+		"defeated": "meow!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,102,102],
+		"cities": ["Onzarius"], //settler upon completing
+		"uniques": ["[+20 Food, +10 Culture, +5 Production] [in all cities]", "Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
+	},
+
+	//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
+			"[Water] units gain the [Unable to pillage tiles] promotion"]
+	}
+
+]

@@ -1,0 +1,116 @@
+[
+
+	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
+
+	/* Ancient Era */
+	{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	},
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+    	{
+		"name": "Draconic Scout",
+		"unitType": "Scout",
+        "replaces": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+        "uniqueTo": "Dragon Domain",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+        	{
+		"name": "Draconic Builder",
+		"unitType": "Civilian",
+        "replaces": "Worker",
+		"movement": 2,
+		"cost": 50,
+        "uniqueTo": "Dragon Domain",
+        "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
+	},
+            	{
+		"name": "Angelic Builder",
+		"unitType": "Civilian",
+        "replaces": "Worker",
+		"movement": 2,
+		"cost": 50,
+        "uniqueTo": "Beyond",
+        "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
+	},
+        	{
+		"name": "Angelic Scout",
+		"unitType": "Scout",
+        "replaces": "Scout",
+        "uniqueTo": "Beyond",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+/*	{
+		"name": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},*/
+	{
+		"name": "Brute",
+		"unitType": "Sword",
+		"uniqueTo": "Barbarians",
+		//"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 20,
+		//"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+
+	/* Great people */
+   {
+		"name": "Draconic Origin Maker",
+		"unitType": "Civilian",
+        "replaces": "Settler",
+        "uniqueTo": "Dragon Domain",
+		"uniques": ["Founds a new city <by consuming this unit>","Unbuildable"],
+		"movement": 2
+	},
+{
+		"name": "Angelic Origin Maker",
+		"unitType": "Civilian",
+        "replaces": "Settler",
+        "uniqueTo": "Beyond",
+		"uniques": ["Founds a new city <by consuming this unit>","Unbuildable"],
+		"movement": 2
+	},
+
+]
