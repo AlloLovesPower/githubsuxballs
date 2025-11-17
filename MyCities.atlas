@@ -1,0 +1,47 @@
+MyCities.png
+size: 2048, 150
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/City center-DragonDomainStyle-Ancient era
+  rotate: false
+  xy: 0, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-UnderworldStyle-Ancient era
+  rotate: false
+  xy: 120, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-ElavaCovenStyle-Ancient era
+  rotate: false
+  xy: 240, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain
+  rotate: false
+  xy: 360, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Light Forest
+  rotate: false
+  xy: 480, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow Forest
+  rotate: false
+  xy: 600, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
