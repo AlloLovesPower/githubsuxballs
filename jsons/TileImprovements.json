@@ -35,7 +35,7 @@
 		"name": "Ancient ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable",
-			"Does not need removal of [Forest]", "Does not need removal of [Jungle]"]
+			"Does not need removal of [Light Forest]","Does not need removal of [Snow Forest]"],
 	},
 	{
 		"name": "City ruins",

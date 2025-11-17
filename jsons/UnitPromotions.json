@@ -1,6 +1,6 @@
 [
 
-	{
+{
 		"name": "Heal Instantly",
 		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
@@ -9,7 +9,7 @@
         "row": 0,
         "column": 0
     },
-
+/*
 	// Ranged+Siege
 	{
 		"name": "Accuracy I",
@@ -769,7 +769,7 @@
 	{
 		"name": "[Privateer] ability",
 		"uniques": ["May capture killed [Water] units"]
-	},
+	},*/
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",
 		"uniques": ["Unable to pillage tiles"]

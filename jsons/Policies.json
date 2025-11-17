@@ -47,7 +47,7 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "requires": ["Legalism"],
+                "requires": ["Unusual Home"],
                 "row": 2,
                 "column": 2
             },
@@ -56,7 +56,7 @@
                 "uniques": [
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]"
                 ],
-                "requires": ["Legalism"],
+                "requires": ["Natural"],
                 "row": 2,
                 "column": 4
             },
@@ -119,7 +119,7 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "requires": ["Legalism"],
+                "requires": ["Dwell Together"],
                 "row": 2,
                 "column": 2
             },
@@ -128,7 +128,7 @@
                 "uniques": [
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]" //spawn second symbiont
                 ],
-                "requires": ["Legalism"],
+                "requires": ["Joint Forces"],
                 "row": 2,
                 "column": 4
             },
