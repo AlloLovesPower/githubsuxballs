@@ -34,8 +34,8 @@
 		"name": "Ancestra",
 		"culture": 1,
 		"isWonder": true,
-		"greatPersonPoints": {"Great Prophet": 1},
-        "uniques": ["[+10]% [Culture] [in all cities]","[+Culture] [in this city]"],
+		//"greatPersonPoints": {"Great Prophet": 1},
+        "uniques": ["[+10]% [Culture] [in all cities]","[+2 Culture] [in this city]"],
 		"requiredTech": "Spirits",
 		"quote": "'spirits are people too ~the spirits"
 	},
