@@ -10,14 +10,14 @@ TileSets/FantasyHex/Tiles/City center-DragonDomainStyle-Ancient era
   orig: 120, 150
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-UnderworldStyle-Ancient era
+TileSets/FantasyHex/Tiles/City center-BeyondStyle-Ancient era
   rotate: false
   xy: 120, 0
   size: 120, 150
   orig: 120, 150
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/City center-ElavaCovenStyle-Ancient era
+TileSets/FantasyHex/Tiles/City center-MelodiaStyle-Ancient era
   rotate: false
   xy: 240, 0
   size: 120, 150
