@@ -13,7 +13,7 @@
 	{
 		"name": "Ice Gems",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
+	//	"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
 		"culture": 1,
         "production": 1,
 		"improvement": "Mine",
@@ -23,7 +23,7 @@
 	{
 		"name": "Horses",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+	//	"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
 		"production": 1,
         "culture": 1,
 		"improvement": "Pasture",
@@ -33,7 +33,7 @@
     	{
 		"name": "Juicefruit",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+	//	"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 2},
@@ -42,7 +42,7 @@
     	{
 		"name": "Rare Ice Gems",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
+	//	"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
 		"culture": 18,
 		"improvement": "Mine",
 		"improvementStats": {"culture": 8},
@@ -51,7 +51,7 @@
 	{
 		"name": "Spirithorse",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+	//	"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
 		"food": 12,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 6},
