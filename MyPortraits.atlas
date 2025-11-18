@@ -17,7 +17,7 @@ UnitIcons/Draconic Scout
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Draconic Worker
+UnitIcons/Draconic Builder
   rotate: false
   xy: 200, 0
   size: 100, 100
@@ -38,7 +38,7 @@ UnitIcons/Angelic Scout
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Angelic Worker
+UnitIcons/Angelic Builder
   rotate: false
   xy: 200, 0
   size: 100, 100
@@ -59,7 +59,7 @@ UnitIcons/Melodia Scout
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Melodia Worker
+UnitIcons/Melodia Builder
   rotate: false
   xy: 200, 0
   size: 100, 100
