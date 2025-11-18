@@ -94,3 +94,10 @@ TileSets/FantasyHex/Tiles/Rare Ice Gems
   orig: 120, 150
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Plains Forest
+  rotate: false
+  xy: 1560, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
