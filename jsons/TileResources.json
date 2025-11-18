@@ -14,28 +14,48 @@
 		"name": "Ice Gems",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
-		"food": 1,
-		"improvement": "Pasture",
-		"improvementStats": {"food": 1},
-		"uniques": ["Generated on every [12] tiles <in [Snow] tiles>","Generated on every [58] tiles <in [Plains] tiles>","Generated on every [112] tiles <in [Grassland] tiles>"]
+		"culture": 1,
+        "production": 1,
+		"improvement": "Mine",
+		"improvementStats": {"culture": 1,"production": 1},
+		"uniques": ["Generated on every [20] tiles <in [Snow] tiles>","Generated on every [120] tiles <in [Plains] tiles>","Generated on every [300] tiles <in [Grassland] tiles>"]
 	},
 	{
 		"name": "Horses",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
-		"food": 1,
+		"production": 1,
+        "culture": 1,
 		"improvement": "Pasture",
-		"improvementStats": {"food": 1},
-		"uniques": ["Generated on every [30] tiles <in [Grassland] tiles>","Generated on every [10] tiles <in [Plains] tiles>","Generated on every [89] tiles <in [Snow] tiles>"]
+		"improvementStats": {"food": 1,"production":1},
+		"uniques": ["Generated on every [60] tiles <in [Grassland] tiles>","Generated on every [20] tiles <in [Plains] tiles>","Generated on every [100] tiles <in [Snow] tiles>"]
 	},
     	{
 		"name": "Juicefruit",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
-		"food": 1,
+		"food": 2,
+		"improvement": "Farm",
+		"improvementStats": {"food": 2},
+        "uniques": ["Generated on every [20] tiles <in [Grassland] tiles>","Generated on every [60] tiles <in [Plains] tiles>","Generated on every [120] tiles <in [Snow] tiles>"]
+	},
+    	{
+		"name": "Rare Ice Gems",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
+		"culture": 18,
+		"improvement": "Mine",
+		"improvementStats": {"culture": 8},
+		"uniques": ["Generated on every [2000] tiles <in [Snow] tiles>","Generated on every [4000] tiles <in [Plains] tiles>","Generated on every [4000] tiles <in [Grassland] tiles>"]
+	},
+	{
+		"name": "Spirithorse",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+		"food": 12,
 		"improvement": "Pasture",
-		"improvementStats": {"food": 1},
-        "uniques": ["Generated on every [12] tiles <in [Grassland] tiles>","Generated on every [40] tiles <in [Plains] tiles>","Generated on every [109] tiles <in [Snow] tiles>"]
+		"improvementStats": {"food": 6},
+		"uniques": ["Generated on every [4000] tiles <in [Grassland] tiles>","Generated on every [2000] tiles <in [Plains] tiles>","Generated on every [4000] tiles <in [Snow] tiles>"]
 	}
     /*
 	{
