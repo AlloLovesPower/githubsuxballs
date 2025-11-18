@@ -13,17 +13,17 @@
 	{
 		"name": "Ice Gems",
 		"resourceType": "Bonus",
-	//	"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
+		"terrainsCanBeFoundOn": ["Snow"],
 		"culture": 1,
         "production": 1,
 		"improvement": "Mine",
 		"improvementStats": {"culture": 1,"production": 1},
-		"uniques": ["Generated on every [20] tiles <in [Snow] tiles>","Generated on every [120] tiles <in [Plains] tiles>","Generated on every [300] tiles <in [Grassland] tiles>"]
+		"uniques": ["Generated on every [20] tiles <in [Snow] tiles>"]
 	},
 	{
 		"name": "Horses",
 		"resourceType": "Bonus",
-	//	"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
 		"production": 1,
         "culture": 1,
 		"improvement": "Pasture",
@@ -33,25 +33,25 @@
     	{
 		"name": "Juicefruit",
 		"resourceType": "Bonus",
-	//	"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
 		"food": 2,
 		"improvement": "Farm",
 		"improvementStats": {"food": 2},
-        "uniques": ["Generated on every [20] tiles <in [Grassland] tiles>","Generated on every [60] tiles <in [Plains] tiles>","Generated on every [120] tiles <in [Snow] tiles>"]
+        "uniques": ["Generated on every [20] tiles <in [Grassland] tiles>"]
 	},
     	{
 		"name": "Rare Ice Gems",
 		"resourceType": "Bonus",
-	//	"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
+		"terrainsCanBeFoundOn": ["Snow"],
 		"culture": 18,
 		"improvement": "Mine",
 		"improvementStats": {"culture": 8},
-		"uniques": ["Generated on every [2000] tiles <in [Snow] tiles>","Generated on every [4000] tiles <in [Plains] tiles>","Generated on every [4000] tiles <in [Grassland] tiles>"]
+		"uniques": ["Generated on every [2000] tiles <in [Snow] tiles>"]
 	},
 	{
 		"name": "Spirithorse",
 		"resourceType": "Bonus",
-	//	"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
 		"food": 12,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 6},
