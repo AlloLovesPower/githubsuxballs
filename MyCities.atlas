@@ -59,21 +59,21 @@ TileSets/FantasyHex/Tiles/Horses
   orig: 120, 150
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Juicefruit1
+TileSets/FantasyHex/Tiles/Juicefruit
   rotate: false
   xy: 960, 0
   size: 120, 150
   orig: 120, 150
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Juicefruit2
+TileSets/FantasyHex/Tiles/Juicefruit-1
   rotate: false
   xy: 1080, 0
   size: 120, 150
   orig: 120, 150
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Juicefruit3
+TileSets/FantasyHex/Tiles/Juicefruit2
   rotate: false
   xy: 1200, 0
   size: 120, 150

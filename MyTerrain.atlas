@@ -33,7 +33,7 @@ TileSets/FantasyHex/Tiles/Snow
   index: -1
 TileSets/FantasyHex/Tiles/Plains
   rotate: false
-  xy: 600, 0
+  xy: 480, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
