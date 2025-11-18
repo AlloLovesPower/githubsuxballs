@@ -59,8 +59,8 @@
                        "Occurs at temperature between [-0.4] and [-0.3] and humidity between [0] and [1]",
                        "Occurs at temperature between [-0.3] and [-0.2] and humidity between [0] and [1]",
                        "Occurs at temperature between [-0.2] and [-0.1] and humidity between [0] and [1]",
-                       "Occurs at temperature between [-0.1] and [0] and humidity between [0] and [1]",*/
-                       "Occurs at temperature between [0] and [0.1] and humidity between [0.5] and [1]",
+                       "Occurs at temperature between [-0.1] and [0] and humidity between [0] and [1]",
+                       "Occurs at temperature between [0] and [0.1] and humidity between [0.5] and [1]",*/
                        "Occurs at temperature between [0.1] and [0.2] and humidity between [0.5] and [1]",
                        "Occurs at temperature between [0.2] and [0.3] and humidity between [0.5] and [1]",
                        "Occurs at temperature between [0.3] and [0.4] and humidity between [0.5] and [1]",
@@ -170,8 +170,8 @@
                        "Occurs at temperature between [-0.3] and [-0.2] and humidity between [0.5] and [1]",
                        "Occurs at temperature between [-0.2] and [-0.1] and humidity between [0.5] and [1]",
                        "Occurs at temperature between [-0.1] and [0] and humidity between [0.5] and [1]",
-               /*        "Occurs at temperature between [0] and [0.1] and humidity between [0] and [1]",
-                       "Occurs at temperature between [0.1] and [0.2] and humidity between [0] and [1]",
+                       "Occurs at temperature between [0] and [0.1] and humidity between [0.5] and [1]",
+              /*         "Occurs at temperature between [0.1] and [0.2] and humidity between [0] and [1]",
                        "Occurs at temperature between [0.2] and [0.3] and humidity between [0] and [1]",
                        "Occurs at temperature between [0.3] and [0.4] and humidity between [0] and [1]",
                        "Occurs at temperature between [0.4] and [0.5] and humidity between [0] and [1]",
@@ -224,7 +224,7 @@
             "Always Fertility [-2] for Map Generation",
             "Considered [Undesirable] when determining start locations"]
 	},
-        	{
+    /*    	{
 		"name": "Witchhut",
 		"type": "TerrainFeature",
 		"food": 3,
@@ -238,7 +238,7 @@
 					"Always Fertility [4] for Map Generation",
 					"Considered [Food] when determining start locations",
 					"Considered [Desirable] when determining start locations"],
-	},
+	},*/
     
 
         	{
