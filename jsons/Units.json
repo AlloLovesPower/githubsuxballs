@@ -48,6 +48,26 @@
         "uniqueTo": "Dragon Domain",
         "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
 	},
+        	{
+		"name": "Melodia Scout",
+		"unitType": "Scout",
+        "replaces": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+        "uniqueTo": "Melodia",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit"
+	},
+        	{
+		"name": "Melodia Builder",
+		"unitType": "Civilian",
+        "replaces": "Worker",
+		"movement": 2,
+		"cost": 50,
+        "uniqueTo": "Melodia",
+        "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
+	},
             	{
 		"name": "Angelic Builder",
 		"unitType": "Civilian",
@@ -105,6 +125,14 @@
 		"unitType": "Civilian",
         "replaces": "Settler",
         "uniqueTo": "Beyond",
+		"uniques": ["Founds a new city <by consuming this unit>","Unbuildable"],
+		"movement": 2
+	},
+    {
+		"name": "Melodia Origin Maker",
+		"unitType": "Civilian",
+        "replaces": "Settler",
+        "uniqueTo": "Melodia",
 		"uniques": ["Founds a new city <by consuming this unit>","Unbuildable"],
 		"movement": 2
 	},
