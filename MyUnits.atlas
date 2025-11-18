@@ -45,4 +45,25 @@ TileSets/FantasyHex/Units/Angelic Builder
   orig: 120, 150
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Melodia Origin Maker
+  rotate: false
+  xy: 720, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Melodia Scout
+  rotate: false
+  xy: 840, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Melodia Builder
+  rotate: false
+  xy: 960, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
   
