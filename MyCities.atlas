@@ -45,3 +45,38 @@ TileSets/FantasyHex/Tiles/Snow Forest
   orig: 120, 150
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Ice Gems
+  rotate: false
+  xy: 720, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Horses
+  rotate: false
+  xy: 840, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Juicefruit1
+  rotate: false
+  xy: 960, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Juicefruit2
+  rotate: false
+  xy: 1080, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Juicefruit3
+  rotate: false
+  xy: 1200, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
