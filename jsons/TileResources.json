@@ -11,13 +11,31 @@
 					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 	},*/
 	{
-		"name": "Sheep",
+		"name": "Ice Gems",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland"],
+		"terrainsCanBeFoundOn": ["Snow","Plains","Grassland"],
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
-		"uniques": ["Generated on every [13] tiles <in [Grassland] tiles>"]
+		"uniques": ["Generated on every [12] tiles <in [Snow] tiles>","Generated on every [58] tiles <in [Plains] tiles>","Generated on every [112] tiles <in [Grassland] tiles>"]
+	},
+	{
+		"name": "Horses",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+		"food": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"food": 1},
+		"uniques": ["Generated on every [30] tiles <in [Grassland] tiles>","Generated on every [10] tiles <in [Plains] tiles>","Generated on every [89] tiles <in [Snow] tiles>"]
+	},
+    	{
+		"name": "Juicefruit",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+		"food": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"food": 1},
+        "uniques": ["Generated on every [12] tiles <in [Grassland] tiles>","Generated on every [40] tiles <in [Plains] tiles>","Generated on every [109] tiles <in [Snow] tiles>"]
 	}
     /*
 	{
