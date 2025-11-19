@@ -1,38 +1,89 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "Ancient era",
+		"era": "Beginning era",
 		"techCost": 20,
 		"buildingCost": 40,
-		"wonderCost": 185,
+		"wonderCost": 150,
 		"techs": [
 			{
-				"name": "Agriculture",
+				"name": "Worlds Beginning",
 				"row": 6,
-				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"quote": "'Our origin",
 				"uniques": ["Starting tech"]
 			}
 		]
 	},
 	{
 		"columnNumber": 1,
-		"era": "Ancient era",
+		"era": "Beginning era",
 		"techCost": 35,
 		"buildingCost": 60,
-		"wonderCost": 185,
+		"wonderCost": 150,
 		"techs": [
 			{
-				"name": "Spirits",
-				"row": 2,
-				"prerequisites": ["Agriculture"],
+				"name": "First Expansion",
+				"row": 1,
+				"prerequisites": ["Worlds Beginning"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
-				"quote": "'teh spirits"
+				"quote": "'To found a second City."
 			},
 			{
-				"name": "Health",
-				"row": 5,
-				"prerequisites": ["Agriculture"],
-				"quote": "'eat da food"
+				"name": "Resource Harvesting",
+				"row": 2,
+				"prerequisites": ["Worlds Beginning"],
+				"quote": "'To use what we are given."
+			},
+            			{
+				"name": "Land Cultivation",
+				"row": 3,
+				"prerequisites": ["Worlds Beginning"],
+				"quote": "'To make from nothing.."
+			},
+       ]
+	}
+    
+    	{
+		"columnNumber": 2,
+		"era": "Beginning era",
+		"techCost": 50,
+		"buildingCost": 60,
+		"wonderCost": 150,
+		"techs": [
+			{
+				"name": "Friendship",
+				"row": 1,
+				"prerequisites": ["Resource Harvesting","Land Cultivation"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'To start a path of friendship."
+			},
+			{
+				"name": "Build Great Things",
+				"row": 2,
+				"prerequisites": ["Resource Harvesting","Land Cultivation"],
+				"quote": "'To use what we are given."
+			},
+            			{
+				"name": "Military",
+				"row": 3,
+                "prerequisites": ["Resource Harvesting","Land Cultivation"],
+				"quote": "'Even the peaceful should be strong."
+			},
+       ]
+	}
+        	{
+		"columnNumber": 3,
+		"era": "Fledgling era",
+		"techCost": 100,
+		"buildingCost": 120,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Second Expansion",
+				"row": 1,
+				"prerequisites": ["First Expansion"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'To found a third City."
 			},
        ]
 	}

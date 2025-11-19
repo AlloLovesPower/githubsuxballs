@@ -21,26 +21,26 @@
 
   {
 		    "name": "Summon Draconic Origin Maker",
-		    "text": "A comet was sighted in the sky. Some people in the past believed that this portents fell times ahead. Others used to believe that they are in fact pixie fairies floating in the sky. Such primitive ways of thinking, it's almost embarassing that our ancestors used to believe in such nonsensical rubbish like that.",
+		    "text": "Here's an Origin Maker, to found another city, just for you :)",
 		    "choices": [
-			    {"text": "Thank God we live in such enlightened times.",
+			    {"text": "omg thank you so much. i love you!",
 			     "uniques": ["[1] free [Draconic Origin Maker] units appear"] } ]
 	
 	}
 
 {
 		    "name": "Summon Angelic Origin Maker",
-		    "text": "A comet was sighted in the sky. Some people in the past believed that this portents fell times ahead. Others used to believe that they are in fact pixie fairies floating in the sky. Such primitive ways of thinking, it's almost embarassing that our ancestors used to believe in such nonsensical rubbish like that.",
+		    "text": "Here's an Origin Maker, to found another city, just for you :)",
 		    "choices": [
-			    {"text": "Thank God we live in such enlightened times.",
+			    {"text": "omg thank you so much. i love you!",
 			     "uniques": ["[1] free [Angelic Origin Maker] units appear"] } ]
 	
 	}
 {
 		    "name": "Summon Melodia Origin Maker",
-		    "text": "A comet was sighted in the sky. Some people in the past believed that this portents fell times ahead. Others used to believe that they are in fact pixie fairies floating in the sky. Such primitive ways of thinking, it's almost embarassing that our ancestors used to believe in such nonsensical rubbish like that.",
+		    "text": "Here's an Origin Maker, to found another city, just for you :)",
 		    "choices": [
-			    {"text": "Thank God we live in such enlightened times.",
+			    {"text": "omg thank you so much. i love you!",
 			     "uniques": ["[1] free [Melodia Origin Maker] units appear"] } ]
 	
 	}

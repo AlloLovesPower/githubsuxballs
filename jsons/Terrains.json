@@ -75,7 +75,8 @@
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+           // "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+           ]
     },
     
     	{
@@ -110,7 +111,8 @@
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+          //  "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+          ]
     },
     
     	{
@@ -130,7 +132,8 @@
             "Considered [Desirable] when determining start locations",
             "Considered [Production] when determining start locations <in [Light Forest] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+           // "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+           ]
     },
         	{
 		"name": "Plains Forest",
@@ -149,7 +152,8 @@
             "Considered [Desirable] when determining start locations",
             "Considered [Production] when determining start locations <in [Plains Forest] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+          //  "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+          ]
     },
       	{
 		"name": "Snow Forest",
@@ -168,7 +172,8 @@
             "Considered [Desirable] when determining start locations",
             "Considered [Production] when determining start locations <in [Snow Forest] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+            //"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+            ]
     },
     
     
@@ -204,7 +209,8 @@
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Snow] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+         //   "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+         ]
     },
     
     
@@ -517,7 +523,7 @@
         "uniques": ["Doesn't generate naturally", "Excluded from map editor"],
     },
     
-    /*
+  /*  
       	{
 		"name": "Sky Tower",
 		"type": "NaturalWonder",
