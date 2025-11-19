@@ -14,21 +14,21 @@
 		{
 		"name": "Farm",
 		"turnsToBuild": 8,
-		"techRequired": "Health",
+		"techRequired": "Resource Harvesting",
 		"uniques": ["[+1 Food]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
 	{
 		"name": "Pasture",
 		"turnsToBuild": 8,
-		"techRequired": "Health",
+		"techRequired": "Resource Harvesting",
 		"uniques": ["[+1 Culture]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
     	{
 		"name": "Mine",
 		"turnsToBuild": 8,
-		"techRequired": "Health",
+		"techRequired": "Resource Harvesting",
 		"uniques": ["[+1 Production]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	},
@@ -39,7 +39,7 @@
         "terrainsCanBeBuiltOn": ["Grassland", "Snow"],
 		"turnsToBuild": 8,
         "food": 1,
-		"techRequired": "Spirits",
+		"techRequired": "Land Cultivation",
         "uniqueTo": "Beyond",
 		"uniques": ["[+1 Food]", "Pillaging this improvement yields approximately [+10 Gold]"],
 	},

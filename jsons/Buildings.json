@@ -22,7 +22,7 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	// Column 1
-	{
+	/*{
 		"name": "Granary",
 		"food": 2,
 		"maintenance": 1,
@@ -39,5 +39,5 @@
 		"requiredTech": "Spirits",
 		"quote": "'spirits are people too ~the spirits"
 	},
-
+*/
 ]
