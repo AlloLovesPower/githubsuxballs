@@ -122,3 +122,17 @@ TileSets/FantasyHex/Tiles/Plains Forest
   orig: 120, 150
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Sky Citadel
+  rotate: false
+  xy: 1680, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Old One
+  rotate: false
+  xy: 1800, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
