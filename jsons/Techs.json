@@ -52,20 +52,20 @@
 		"techs": [
 			{
 				"name": "Friendship",
-				"row": 1,
+				"row": 2,
 				"prerequisites": ["Resource Harvesting","Land Cultivation"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'To start a path of friendship."
 			},
 			{
 				"name": "Build Great Things",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Resource Harvesting","Land Cultivation"],
 				"quote": "'To use what we are given."
 			},
             			{
 				"name": "Military",
-				"row": 3,
+				"row": 4,
                 "prerequisites": ["Resource Harvesting","Land Cultivation"],
 				"quote": "'Even the peaceful should be strong."
 			},
