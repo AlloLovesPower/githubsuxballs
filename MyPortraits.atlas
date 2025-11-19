@@ -101,49 +101,49 @@ ResourceIcons/Spirithorse
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/First Expansion
+TechPortraits/First Expansion
   rotate: false
   xy: 600, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Second Expansion
+TechPortraits/Second Expansion
   rotate: false
   xy: 700, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Resource Harvesting
+TechPortraits/Resource Harvesting
   rotate: false
   xy: 800, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Land Cultivation
+TechPortraits/Land Cultivation
   rotate: false
   xy: 900, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Friendship
+TechPortraits/Friendship
   rotate: false
   xy: 1000, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Build Great Things
+TechPortraits/Build Great Things
   rotate: false
   xy: 1100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Military
+TechPortraits/Military
   rotate: false
   xy: 1200, 0
   size: 100, 100
