@@ -523,32 +523,49 @@
         "uniques": ["Doesn't generate naturally", "Excluded from map editor"],
     },
     
-  /*  
+  
       	{
-		"name": "Sky Tower",
+		"name": "Sky Citadel",
 		"type": "NaturalWonder",
 		"science": 6,
 		"production": 5,
-		"occursOn": ["Grassland"],
-		"turnsInto": "Mountain",
-		"impassable": true,
+		"occursOn": ["Plains"],
 		"unbuildable": true,
 		"weight": 10
 	},
     
           	{
-		"name": "Axun",
+		"name": "Old One",
 		"type": "NaturalWonder",
-		"science": 6,
-		"production": 5,
+		"culture": 6,
+		"science": 5,
 		"occursOn": ["Grassland"],
-		"turnsInto": "Mountain",
-		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
 	},
 
-*/
+          	{
+		"name": "Rare Ice Gems",
+		"type": "NaturalWonder",
+		"gold": 12,
+        "science":5,
+		"production": 5,
+		"occursOn": ["Snow"],
+		"unbuildable": true,
+		"weight": 10
+	},
+    
+              	{
+		"name": "Spirithorse",
+		"type": "NaturalWonder",
+		"science": 6,
+		"production": 5,
+        "culture": 8,
+        "gold":5,
+		"occursOn": ["Grassland","Snow","Plains"],
+		"unbuildable": true,
+		"weight": 10
+	},
     
 
 

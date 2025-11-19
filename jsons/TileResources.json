@@ -23,7 +23,7 @@
 	{
 		"name": "Horses",
 		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
+		"terrainsCanBeFoundOn": ["Plains"],
 		"production": 1,
         "culture": 1,
 		"improvement": "Pasture",
@@ -39,24 +39,7 @@
 		"improvementStats": {"food": 2},
         "uniques": ["Generated on every [20] tiles <in [Grassland] tiles>"]
 	},
-    	{
-		"name": "Rare Ice Gems",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Snow"],
-		"culture": 18,
-		"improvement": "Mine",
-		"improvementStats": {"culture": 8},
-		"uniques": ["Generated on every [2000] tiles <in [Snow] tiles>"]
-	},
-	{
-		"name": "Spirithorse",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Plains","Grassland","Snow"],
-		"food": 12,
-		"improvement": "Pasture",
-		"improvementStats": {"food": 6},
-		"uniques": ["Generated on every [4000] tiles <in [Grassland] tiles>","Generated on every [2000] tiles <in [Plains] tiles>","Generated on every [4000] tiles <in [Snow] tiles>"]
-	}
+
     /*
 	{
 		"name": "Deer",
