@@ -1,5 +1,5 @@
 MyCities.png
-size: 2048, 150
+size: 2048, 300
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -132,6 +132,27 @@ TileSets/FantasyHex/Tiles/Sky Citadel
 TileSets/FantasyHex/Tiles/Old One
   rotate: false
   xy: 1800, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mine
+  rotate: false
+  xy: 1920, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pasture
+  rotate: false
+  xy: 0, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Homestead
+  rotate: false
+  xy: 120, 150
   size: 120, 150
   orig: 120, 150
   offset: 0, 0
