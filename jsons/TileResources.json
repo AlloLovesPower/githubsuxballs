@@ -35,7 +35,7 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 2,
-		"improvement": "Farm",
+		"improvement": "Pasture",
 		"improvementStats": {"food": 2},
         "uniques": ["Generated on every [20] tiles <in [Grassland] tiles>"]
 	},
