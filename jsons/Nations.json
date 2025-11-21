@@ -110,6 +110,40 @@
 			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
         "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
 	},
+    
+        {
+		//nations dragonciv, necrocult, indians, fey, steam
+		"name": "The Fey",
+		"leaderName": "Serendipity",
+		"adjective": ["Fey"],
+		"startBias": ["[Light Forest]","[Snow Forest]","[Plains Forest]"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Serendipity",
+
+		"startIntroPart1": "meow",
+		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
+
+		"declaringWar": "MEOWWWWWWWW!",
+		"attacked": "*sad wimperimg*",
+		"defeated": "meow.",
+		"introduction": "meow. meowmeow. meow. meow?",
+
+		"neutralHello": "meow",
+		"hateHello": "meow",
+        
+		"tradeRequest": "meow! meowmeow meow!",
+        "style": "TheFeyStyle",
+		"outerColor": [96, 189, 146],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Wuv",
+		"uniqueName": "Wuv",
+		"uniques": ["Unable to capture cities", "May not annex cities", "Unable to pillage tiles", "[+2 Culture, +2 Food] [in all cities]", "City-State territory always counts as friendly territory", "[-80]% unhappiness from the number of cities", "Each city founded increases culture cost of policies [+80]% less than normal", "Each city founded increases Science cost of Technologies [+80]% less than normal"],
+		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
+			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
+			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
+			"Quogdino","Norg","Donger","View","Fri Lanka","Nonbad","Good","Up","Neeb","Less"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
     /*
     {
 		//nations dragonciv, necrocult, indians, fey, steam

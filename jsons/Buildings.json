@@ -21,6 +21,27 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
+  
+    {
+		"name": "Sky Church",
+		"cost": 125,
+		"happiness": 5,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Unavailable <if [Sunrise Festival] is constructed>"],
+		"requiredTech": "Build Great Things"
+	},
+    
+        {
+		"name": "Sunrise Festival",
+		"cost": 125,
+		"happiness": 5,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Unavailable <if [Sky Church] is constructed>"],
+		"requiredTech": "Build Great Things"
+	},
+    
 	// Column 1
 	/*{
 		"name": "Granary",
