@@ -143,7 +143,7 @@ TileSets/FantasyHex/Tiles/Mine
   orig: 120, 150
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Pasture
+TileSets/FantasyHex/Tiles/Sanctuary
   rotate: false
   xy: 0, 150
   size: 120, 150
@@ -153,6 +153,27 @@ TileSets/FantasyHex/Tiles/Pasture
 TileSets/FantasyHex/Tiles/Homestead
   rotate: false
   xy: 120, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Light Forest Homestead
+  rotate: false
+  xy: 240, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow Forest Homestead
+  rotate: false
+  xy: 360, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains Forest Homestead
+  rotate: false
+  xy: 480, 150
   size: 120, 150
   orig: 120, 150
   offset: 0, 0

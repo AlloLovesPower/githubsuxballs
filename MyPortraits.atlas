@@ -150,3 +150,45 @@ TechPortraits/Military
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileImprovementPortraits/Homestead
+  rotate: false
+  xy: 1300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Mine
+  rotate: false
+  xy: 1400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Sanctuary
+  rotate: false
+  xy: 1500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Light Forest Homestead
+  rotate: false
+  xy: 1600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Snow Forest Homestead
+  rotate: false
+  xy: 1600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Plains Forest Homestead
+  rotate: false
+  xy: 1600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
