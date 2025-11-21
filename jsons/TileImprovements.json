@@ -80,6 +80,17 @@
 		"techRequired": "Land Cultivation",
 		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
 	},
+    
+                	{
+		"name": "Water Homestead",
+        "terrainsCanBeBuiltOn": ["Ocean","Lakes"],
+		"turnsToBuild": 8,
+        "food": 2,
+        "gold": 1,
+        "production": 1,
+		"techRequired": "Land Cultivation",
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
+	},
 	// Unbuildable improvements
 	{
 		"name": "Ancient ruins",
