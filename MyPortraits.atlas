@@ -150,7 +150,7 @@ TechPortraits/Military
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileImprovementPortraits/Homestead
+ImprovementPortraits/Homestead
   rotate: false
   xy: 1300, 0
   size: 100, 100
@@ -186,6 +186,13 @@ ImprovementPortraits/Snow Forest Homestead
   offset: 0, 0
   index: -1
 ImprovementPortraits/Plains Forest Homestead
+  rotate: false
+  xy: 1600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Water Homestead
   rotate: false
   xy: 1600, 0
   size: 100, 100
