@@ -19,7 +19,7 @@
 		"shortcutKey": "P"
 	},*/
 	{
-		"name": "Pasture",
+		"name": "Sanctuary",
 		"turnsToBuild": 8,
         "food": 3,
         "culture": 1,
@@ -50,7 +50,36 @@
 		"techRequired": "Land Cultivation",
 		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
 	},
-
+        	{
+		"name": "Light Forest Homestead",
+        "terrainsCanBeBuiltOn": ["Light Forest"],
+		"turnsToBuild": 8,
+        "food": 2,
+        "gold": 1,
+        "production": 1,
+		"techRequired": "Land Cultivation",
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
+	},
+        	{
+		"name": "Snow Forest Homestead",
+        "terrainsCanBeBuiltOn": ["Snow Forest"],
+		"turnsToBuild": 8,
+        "food": 2,
+        "gold": 1,
+        "production": 1,
+		"techRequired": "Land Cultivation",
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
+	},
+            	{
+		"name": "Plains Forest Homestead",
+        "terrainsCanBeBuiltOn": ["Plains Forest"],
+		"turnsToBuild": 8,
+        "food": 2,
+        "gold": 1,
+        "production": 1,
+		"techRequired": "Land Cultivation",
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
+	},
 	// Unbuildable improvements
 	{
 		"name": "Ancient ruins",
