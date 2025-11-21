@@ -25,3 +25,11 @@ LeaderIcons/Starlight
   orig: 360, 360
   offset: 0, 0
   index: -1
+LeaderIcons/Serendipity
+  rotate: false
+  xy: 1080, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+  
