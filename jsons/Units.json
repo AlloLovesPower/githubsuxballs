@@ -110,8 +110,7 @@
         "replaces": "Archer",
 		"cost": 50,
         "uniqueTo": "The Fey",
-        "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
-	},
+      	},
                     	{
 		"name": "Melodia Warrior",
 		"unitType": "Sword",
@@ -134,8 +133,7 @@
         "replaces": "Archer",
 		"cost": 50,
         "uniqueTo": "Melodia",
-        "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
-	},
+        	},
                     	{
 		"name": "Draconic Warrior",
 		"unitType": "Sword",
@@ -158,7 +156,6 @@
         "replaces": "Archer",
 		"cost": 50,
         "uniqueTo": "Dragon Domain",
-        "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
 	},
                     	{
 		"name": "Angelic Warrior",
@@ -182,8 +179,7 @@
         "replaces": "Archer",
 		"cost": 50,
         "uniqueTo": "Beyond",
-        "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
-	},
+        	},
             	{
 		"name": "Angelic Builder",
 		"unitType": "Civilian",
