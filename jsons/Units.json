@@ -144,7 +144,7 @@
 		"strength": 10,
 		"cost": 25,
         "requiredTech": "Military",
-        "uniqueTo": "DragonDomain",
+        "uniqueTo": "Dragon Domain",
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "nonmetalhit"
 	},
@@ -157,7 +157,7 @@
         "requiredTech": "Military",
         "replaces": "Archer",
 		"cost": 50,
-        "uniqueTo": "DragonDomain",
+        "uniqueTo": "Dragon Domain",
         "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
 	},
                     	{
