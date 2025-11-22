@@ -66,6 +66,27 @@ UnitIcons/Melodia Builder
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Fey Origin Maker
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fey Scout
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fey Builder
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ResourceIcons/Ice Gems
   rotate: false
   xy: 300, 0
