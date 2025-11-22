@@ -185,3 +185,17 @@ TileSets/FantasyHex/Tiles/Water Homestead
   orig: 120, 150
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/City center-TheFeyStyle-Beginning era
+  rotate: false
+  xy: 720, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-TheFeyStyle-Fledgling era
+  rotate: false
+  xy: 720, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1

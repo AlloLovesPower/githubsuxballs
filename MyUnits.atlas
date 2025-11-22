@@ -66,4 +66,25 @@ TileSets/FantasyHex/Units/Melodia Builder
   orig: 120, 150
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Fey Origin Maker
+  rotate: false
+  xy: 1080, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fey Scout
+  rotate: false
+  xy: 1200, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fey Builder
+  rotate: false
+  xy: 1320, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
   
