@@ -3,13 +3,11 @@
 		"name": "Comet Sighted",
 		"text": "People are often superstitious and the appearance of a comet has convinced many that the end of times is soon to come. Whether or not this is actually the case, this is bound to cause some instability within the nation.",
 		"choices": [
-			{ "text": "It is an omen!",
+			{ "text": "It is an prophecy!",
 			  "uniques": [	"Gain [10]-[25] [Faith]",
 							"Gain [10]-[20] [Culture]"]}
       
-      			{ "text": "The end is nigh!",
-			  "uniques": [	"[-2 Happiness] [in all cities] <for [5] turns>",
-                      		"Gain [20]-[40] [Culture]" ] }
+
       
      			{ "text": "Keep looking at the sky!",
 			  "uniques": [ 	"Comment [Grants a burst of [Science]]",
@@ -44,7 +42,14 @@
 			     "uniques": ["[1] free [Melodia Origin Maker] units appear"] } ]
 	
 	}
-
+{
+		    "name": "Summon Fey Origin Maker",
+		    "text": "Here's an Origin Maker, to found another city, just for you :)",
+		    "choices": [
+			    {"text": "omg thank you so much. i love you!",
+			     "uniques": ["[1] free [Fey Origin Maker] units appear"] } ]
+	
+	}
 
 
 

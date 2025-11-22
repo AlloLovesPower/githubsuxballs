@@ -69,6 +69,26 @@
         "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
 	},
             	{
+		"name": "Fey Scout",
+		"unitType": "Scout",
+        "replaces": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+        "uniqueTo": "The Fey",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "nonmetalhit"
+	},
+        	{
+		"name": "Fey Builder",
+		"unitType": "Civilian",
+        "replaces": "Worker",
+		"movement": 2,
+		"cost": 50,
+        "uniqueTo": "The Fey",
+        "uniques": ["Can build [Land] improvements on tiles", "Can build [Water] improvements on tiles", "Automation is a primary action"],
+	},
+            	{
 		"name": "Angelic Builder",
 		"unitType": "Civilian",
         "replaces": "Worker",
@@ -136,5 +156,12 @@
 		"uniques": ["Founds a new city <by consuming this unit>","Unbuildable"],
 		"movement": 2
 	},
-
+    {
+		"name": "Fey Origin Maker",
+		"unitType": "Civilian",
+        "replaces": "Settler",
+        "uniqueTo": "The Fey",
+		"uniques": ["Founds a new city <by consuming this unit>","Unbuildable"],
+		"movement": 2
+	},
 ]
