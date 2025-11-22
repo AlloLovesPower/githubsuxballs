@@ -1,5 +1,5 @@
 MyUnits.png
-size: 2048, 150
+size: 2048, 300
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -87,4 +87,59 @@ TileSets/FantasyHex/Units/Fey Builder
   orig: 120, 150
   offset: 0, 0
   index: -1
-  
+TileSets/FantasyHex/Units/Fey Warrior
+  rotate: false
+  xy: 1440, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Fey Archer
+  rotate: false
+  xy: 1560, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Angelic Warrior
+  rotate: false
+  xy: 1680, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Angelic Archer
+  rotate: false
+  xy: 1800, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Draconic Warrior
+  rotate: false
+  xy: 1920, 0
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Draconic Archer
+  rotate: false
+  xy: 0, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Melodia Warrior
+  rotate: false
+  xy: 120, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Melodia Archer
+  rotate: false
+  xy: 240, 150
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
