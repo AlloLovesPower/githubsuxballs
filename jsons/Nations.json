@@ -150,9 +150,8 @@
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["[+1 Food, +1 Culture] from [Light Forest] tiles [in all cities]",
-        ["[+1 Food, +1 Culture] from [Snow Forest] tiles [in all cities]",
-        ["[+1 Food, +1 Culture] from [Plains Forest] tiles [in all cities]",
-        
+        "[+1 Food, +1 Culture] from [Snow Forest] tiles [in all cities]",
+        "[+1 Food, +1 Culture] from [Plains Forest] tiles [in all cities]"
         ],
 		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
 			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
