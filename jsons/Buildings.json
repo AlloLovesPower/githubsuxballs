@@ -14,31 +14,136 @@
 		"uniques": ["Indicates the capital city"]
 	},
 	{
-		"name": "Monument",
+		"name": "Lounge",
 		"culture": 2,
+        "happiness": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured"]
+	},
+    	{
+		"name": "Kitchen",
+		"culture": 2,
+        "food": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+	},
+    	{
+		"name": "Nationalized Industry",
+		"gold": 4,
+        "production": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+	},
+    	{
+		"name": "Library",
+		"science": 4,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
 	},
   
     {
 		"name": "Sky Church",
 		"cost": 125,
-		"happiness": 5,
-		"culture": 1,
+		"faith": 5,
+		"culture": 5,
 		"isNationalWonder": true,
-		"uniques": ["Unavailable <if [Sunrise Festival] is constructed>"],
+		"uniques": [
+        "Unavailable <if [Sunrise Festival] is constructed>",
+        "Unavailable <if [Great Market] is constructed>",
+        "Unavailable <if [Community Garden] is constructed>",
+        "Unavailable <if [Foundry] is constructed>",
+        "Unavailable <if [Knowledge Forum] is constructed>",
+        ],
 		"requiredTech": "Build Great Things"
 	},
     
         {
 		"name": "Sunrise Festival",
 		"cost": 125,
-		"happiness": 5,
-		"culture": 1,
+		"happiness": 10,
+		"culture": 10,
 		"isNationalWonder": true,
-		"uniques": ["Unavailable <if [Sky Church] is constructed>"],
+		"uniques": [
+        "Unavailable <if [Sky Church] is constructed>",
+        "Unavailable <if [Great Market] is constructed>",
+        "Unavailable <if [Community Garden] is constructed>",
+        "Unavailable <if [Foundry] is constructed>",
+        "Unavailable <if [Knowledge Forum] is constructed>",
+        ],
+		"requiredTech": "Build Great Things"
+	},
+    
+            {
+		"name": "Great Market",
+		"cost": 125,
+		"gold": 5,
+		"culture": 2,
+		"isNationalWonder": true,
+		"uniques": [
+        "Unavailable <if [Sky Church] is constructed>",
+        "Unavailable <if [Sunrise Festival] is constructed>",
+        "Unavailable <if [Community Garden] is constructed>",
+        "Unavailable <if [Foundry] is constructed>",
+        "Unavailable <if [Knowledge Forum] is constructed>",
+        "[+2 Gold, +1 Culture] from [resource] tiles [in this city]",
+        ],
+		"requiredTech": "Build Great Things"
+	},
+    
+                {
+		"name": "Community Garden",
+		"cost": 125,
+		"gold": 3,
+		"culture": 3,
+        "happiness":3,
+		"isNationalWonder": true,
+		"uniques": [
+        "Unavailable <if [Sky Church] is constructed>",
+        "Unavailable <if [Sunrise Festival] is constructed>",
+        "Unavailable <if [Great Market] is constructed>",
+        "Unavailable <if [Foundry] is constructed>",
+        "Unavailable <if [Knowledge Forum] is constructed>",
+        "[+2 Food] from [Homestead] tiles [in this city]",
+        "[+2 Food] from [Light Forest Homestead] tiles [in this city]",
+        "[+2 Food] from [Snow Forest Homestead] tiles [in this city]",
+        "[+2 Food] from [Plains Forest Homestead] tiles [in this city]",
+        ],
+		"requiredTech": "Build Great Things"
+	},
+                    {
+		"name": "Knowledge Forum",
+		"cost": 125,
+		"science": 10,
+		"gold": 2,
+		"isNationalWonder": true,
+		"uniques": [
+        "Unavailable <if [Sky Church] is constructed>",
+        "Unavailable <if [Sunrise Festival] is constructed>",
+        "Unavailable <if [Great Market] is constructed>",
+        "Unavailable <if [Community Garden] is constructed>",
+        "Unavailable <if [Foundry] is constructed>",
+        "[+1 Science] per [1] population [in this city]",
+        ],
+		"requiredTech": "Build Great Things"
+	},
+                        {
+		"name": "Foundry",
+		"cost": 125,
+		"production": 10,
+		"gold": 2,
+		"isNationalWonder": true,
+		"uniques": [
+        "Unavailable <if [Sky Church] is constructed>",
+        "Unavailable <if [Sunrise Festival] is constructed>",
+        "Unavailable <if [Great Market] is constructed>",
+        "Unavailable <if [Community Garden] is constructed>",
+        "Unavailable <if [Knowledge Forum] is constructed>",
+        "[+1 Production] per [1] population [in this city]",
+        ],
 		"requiredTech": "Build Great Things"
 	},
     

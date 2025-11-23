@@ -266,7 +266,7 @@
 	},*/
     
 
-        	{
+     /*   	{
 		"name": "Luminesce",
 		"type": "TerrainFeature",
 		"food": 3,
@@ -280,7 +280,7 @@
 					"Always Fertility [4] for Map Generation",
 					"Considered [Food] when determining start locations",
 					"Considered [Desirable] when determining start locations"],
-	},
+	},*/
 /*	{
 		"name": "Plains",
 		"type": "Land",
