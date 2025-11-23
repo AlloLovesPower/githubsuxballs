@@ -10,6 +10,7 @@
         "[-1] Sight <for [Embarked] units>",
         "[-100]% unhappiness from the number of cities",
         "Units in cities cost no Maintenance",
+        "[-100]% maintenance on road & railroads",
         "Each city founded increases culture cost of policies [+100]% less than normal",
         "Each city founded increases Science cost of Technologies [+100]% less than normal",
         "Triggers a [Summon Draconic Origin Maker] event <for [Dragon Domain] Civilizations> <upon discovering [First Expansion] technology>",

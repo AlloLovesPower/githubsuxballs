@@ -91,6 +91,15 @@
 		"techRequired": "Land Cultivation",
 		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
 	},
+    
+    	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"turnsToBuild": 4,
+		"techRequired": "Worlds Beginning",
+		"uniques": ["Can be built outside your borders"],
+	},
+    
 	// Unbuildable improvements
 	{
 		"name": "Ancient ruins",
