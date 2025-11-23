@@ -55,6 +55,7 @@
 				"row": 2,
 				"prerequisites": ["Resource Harvesting","Land Cultivation"],
                 "uniques": ["[+100]% weight to this choice for AI decisions",
+                "City-State territory always counts as friendly territory",
                 "Gifts of Gold to City-States generate [+20]% more Influence",
                 "Resting point for Influence with City-States is increased by [10]",
                 "Enables Open Borders agreements",

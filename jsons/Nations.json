@@ -32,7 +32,12 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Crimson Sky",
 		"uniqueName": "Wuv",
-		"uniques": ["Gain control over [12] tiles [in this city] <upon founding a city>", "[+1 Food, +1 Happiness] per [1] population [in all cities]", "City-State territory always counts as friendly territory"],
+		"uniques": [
+        "[+2 Food] from [Grassland] tiles [in all cities]",
+        "Gain control over [12] tiles [in this city] <upon founding a city>",
+        "[+1 Food, +1 Happiness] per [1] population [in all cities]",
+
+        ],
 		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
 			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
 			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
@@ -65,7 +70,11 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
-		"uniques": ["[+2 Food] [in all cities]"],
+		"uniques": ["[+2 Food] from [Snow] tiles [in all cities]",
+         "Retain [+100]% of the happiness from a luxury after the last copy has been traded away",
+         "[+50]% of excess happiness converted to [Culture]",
+         "[+300]% Golden Age length",
+         ],
 		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
 			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
 			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
@@ -103,7 +112,10 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
-		"uniques": ["Unable to capture cities", "May not annex cities", "Unable to pillage tiles", "[+2 Culture, +2 Food] [in all cities]", "City-State territory always counts as friendly territory", "[-80]% unhappiness from the number of cities", "Each city founded increases culture cost of policies [+80]% less than normal", "Each city founded increases Science cost of Technologies [+80]% less than normal"],
+		"uniques": ["[+1 Food, +1 Culture] from [Plains] tiles [in all cities]",
+        "[+2 Happiness] per [1] social policies adopted",
+        "[-40]% Culture cost of natural border growth [in all cities]",
+        ],
 		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
 			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
 			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
@@ -123,7 +135,7 @@
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
-		"declaringWar": "MEOWWWWWWWW!",
+		"declaringWar": "you have done wrong",
 		"attacked": "*sad wimperimg*",
 		"defeated": "meow.",
 		"introduction": "meow. meowmeow. meow. meow?",
@@ -137,7 +149,11 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
-		"uniques": ["Unable to capture cities", "May not annex cities", "Unable to pillage tiles", "[+2 Culture, +2 Food] [in all cities]", "City-State territory always counts as friendly territory", "[-80]% unhappiness from the number of cities", "Each city founded increases culture cost of policies [+80]% less than normal", "Each city founded increases Science cost of Technologies [+80]% less than normal"],
+		"uniques": ["[+1 Food, +1 Culture] from [Light Forest] tiles [in all cities]",
+        ["[+1 Food, +1 Culture] from [Snow Forest] tiles [in all cities]",
+        ["[+1 Food, +1 Culture] from [Plains Forest] tiles [in all cities]",
+        
+        ],
 		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
 			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
 			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
@@ -635,7 +651,9 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
 		"cities": ["Onzarius"], //settler upon completing
-		"uniques": ["[+20 Food, +10 Culture, +5 Production] [in all cities]", "Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"]
+		"uniques": [
+        "[+20 Food, +10 Culture, +5 Production] [in all cities]"
+        ],
 	},
 
 	//Barbarian
