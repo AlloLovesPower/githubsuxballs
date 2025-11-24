@@ -1,5 +1,5 @@
 MyPortraits.png
-size: 2048, 100
+size: 2048, 200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -272,6 +272,34 @@ UnitIcons/Draconic Warrior
 UnitIcons/Draconic Archer
   rotate: false
   xy: 1800, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lounge
+  rotate: false
+  xy: 1900, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kitchen
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nationalized Industry
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Library
+  rotate: false
+  xy: 0, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
