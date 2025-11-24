@@ -276,30 +276,30 @@ UnitIcons/Draconic Archer
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Lounge
+BuildingPortraits/Lounge
   rotate: false
   xy: 1900, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Kitchen
+BuildingPortraits/Kitchen
   rotate: false
   xy: 0, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Nationalized Industry
+BuildingPortraits/Nationalized Industry
   rotate: false
-  xy: 0, 200
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Library
+BuildingPortraits/Library
   rotate: false
-  xy: 0, 300
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
