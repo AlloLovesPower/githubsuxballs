@@ -227,6 +227,13 @@ UnitPortraits/Fey Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Fey Warrior
+  rotate: false
+  xy: 1700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Fey Archer
   rotate: false
   xy: 1800, 0
