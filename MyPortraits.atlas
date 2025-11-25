@@ -122,6 +122,7 @@ ResourceIcons/Spirithorse
   orig: 100, 100
   offset: 0, 0
   index: -1
+  
 TechPortraits/First Expansion
   rotate: false
   xy: 600, 0
@@ -220,13 +221,7 @@ ImprovementPortraits/Water Homestead
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPortraits/Fey Warrior
-  rotate: false
-  xy: 1700, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
+
 UnitIcons/Fey Warrior
   rotate: false
   xy: 1700, 0
@@ -283,6 +278,7 @@ UnitIcons/Draconic Archer
   orig: 100, 100
   offset: 0, 0
   index: -1
+  
 BuildingPortraits/Lounge
   rotate: false
   xy: 1900, 0
@@ -354,4 +350,179 @@ BuildingPortraits/Foundry
   offset: 0, 0
   index: -1
   
-    
+UnitPortraits/Draconic Origin Maker
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Draconic Scout
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Draconic Builder
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Angelic Origin Maker
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Angelic Scout
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Angelic Builder
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Melodia Origin Maker
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Melodia Scout
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Melodia Builder
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Fey Origin Maker
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Fey Scout
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Fey Builder
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Ice Gems
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Horses
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Juicefruit
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Rare Ice Gems
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourcePortraits/Spirithorse
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Fey Warrior
+  rotate: false
+  xy: 1700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Fey Archer
+  rotate: false
+  xy: 1800, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Angelic Warrior
+  rotate: false
+  xy: 1700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Angelic Archer
+  rotate: false
+  xy: 1800, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Melodia Warrior
+  rotate: false
+  xy: 1700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Melodia Archer
+  rotate: false
+  xy: 1800, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Draconic Warrior
+  rotate: false
+  xy: 1700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/Draconic Archer
+  rotate: false
+  xy: 1800, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+  
