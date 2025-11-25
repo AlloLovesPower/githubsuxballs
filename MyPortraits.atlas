@@ -304,3 +304,47 @@ BuildingPortraits/Library
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingPortraits/Sky Church
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Sunrise Festival
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Great Market
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Community Garden
+  rotate: false
+  xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Knowledge Forum
+  rotate: false
+  xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingPortraits/Foundry
+  rotate: false
+  xy: 800, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+  
+    
