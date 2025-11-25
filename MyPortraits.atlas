@@ -220,7 +220,7 @@ ImprovementPortraits/Water Homestead
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Fey Warrior
+UnitPortraits/Fey Warrior
   rotate: false
   xy: 1700, 0
   size: 100, 100
