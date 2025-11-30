@@ -1,5 +1,5 @@
 [
- /*   {
+   {
      
      
      //Gain Faith
@@ -8,14 +8,11 @@
      //money
      //
      
-        "name": "The Fey",
-        "era": "Ancient era",
+        "name": "Way of the Plains",
+        "era": "Beginning era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
         },
         "uniques": [
             "[+3 Culture] [in capital]",
@@ -23,16 +20,16 @@
         ],
         "policies": [
             {
-                "name": "Natural",
+                "name": "Plains Livelihood",
                 "uniques": [
-                    "[+2 Food] from [Snow Forest] tiles [in all cities]",
+                    "[+2 Food] from [Plains] tiles [in all cities]",
                     "[+2 Food] from [Lakes] tiles [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "Unusual Home",
+                "name": "Teepee",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free"
                 ],
@@ -40,7 +37,7 @@
                 "column": 3
             },
             {
-                "name": "Benign Weather",
+                "name": "Rolling Thunder",
                 "uniques": [
                     "Units in cities cost no Maintenance",
                     "[+50]% Strength for cities <with a garrison> <when attacking>",
@@ -50,26 +47,26 @@
                 "column": 5
             },
             {
-                "name": "Sacred Groves",
+                "name": "Wind Spirits",
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "requires": ["Unusual Home"],
+                "requires": ["Plains Livelihood"],
                 "row": 2,
                 "column": 2
             },
             {
-                "name": "Royalty",
+                "name": "Horses",
                 "uniques": [
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]"
                 ],
-                "requires": ["Natural"],
+                "requires": ["Rolling Thunder"],
                 "row": 2,
                 "column": 4
             },
             {
-                "name": "Fey Complete",
+                "name": "Way of the Plains Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
                     "Get the leader title of [Lord [leaderName]]"
@@ -79,8 +76,8 @@
     },
 
             {
-        "name": "Animals",
-        "era": "Ancient era",
+        "name": "Way of the Snow",
+        "era": "Beginning era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
@@ -94,9 +91,9 @@
         ],
         "policies": [
             {
-                "name": "Dwell Together",
+                "name": "Frozen Goods",
                 "uniques": [ //boost food
-                    "[+2 Food] from [Light Forest] tiles [in all cities]", //spawn symbiont citystate
+                    "[+2 Food] from [Snow] tiles [in all cities]", //spawn symbiont citystate
                     "[+2 Food] from [Lakes] tiles [in all cities]"
                 ],
                 "row": 1,
@@ -121,12 +118,12 @@
                 "column": 5
             },
             {
-                "name": "Niches Covered",
+                "name": "B",
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "requires": ["Dwell Together"],
+                "requires": ["Frozen Goods"],
                 "row": 2,
                 "column": 2
             },
@@ -135,17 +132,233 @@
                 "uniques": [
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]" //spawn second symbiont
                 ],
-                "requires": ["Joint Forces"],
+                "requires": ["B"],
                 "row": 2,
                 "column": 4
             },
             {
-                "name": "Animals Complete",
+                "name": "Way of the Snow Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
                     "Get the leader title of [Lord [leaderName]]"
                 ]
             }
         ]
-    },*/
+    },
+    
+                {
+        "name": "Way of the Grassland",
+        "era": "Beginning era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+3 Culture] [in capital]",
+            "[-25]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Farming",
+                "uniques": [ //boost food
+                    "[+2 Food] from [Grassland] tiles [in all cities]", //spawn symbiont citystate
+                    "[+2 Food] from [Lakes] tiles [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Cultivation",
+                "uniques": [ //boost science and culture
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Prosperity",
+                "uniques": [ //custom units and all promotion autoheal
+                    "Units in cities cost no Maintenance",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                    "[-100]% weight to this choice for AI decisions"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Evolution",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "requires": ["Prosperity"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Seeds",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]" //spawn second symbiont
+                ],
+                "requires": ["Cultivation"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Way of the Grassland Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                    "Get the leader title of [Lord [leaderName]]"
+                ]
+            }
+        ]
+    },
+    
+                    {
+        "name": "Way of the Forest",
+        "era": "Beginning era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+3 Culture] [in capital]",
+            "[-25]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Forestlife",
+                "uniques": [ //boost food
+                    "[+2 Food] from [Light Forest] tiles [in all cities]",
+                    "[+2 Food] from [Snow Forest] tiles [in all cities]",
+                    "[+2 Food] from [Plains Forest] tiles [in all cities]",
+                    //spawn symbiont citystate
+                    "[+2 Food] from [Lakes] tiles [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Foresty",
+                "uniques": [ //boost science and culture
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Trees",
+                "uniques": [ //custom units and all promotion autoheal
+                    "Units in cities cost no Maintenance",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                    "[-100]% weight to this choice for AI decisions"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "TreePower",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "requires": ["Forestlife"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Natural Cure",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]" //spawn second symbiont
+                ],
+                "requires": ["Forestlife"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Way of the Forest Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                    "Get the leader title of [Lord [leaderName]]"
+                ]
+            }
+        ]
+    },
+    
+                    {
+        "name": "Way of the River",
+        "era": "Beginning era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+3 Culture] [in capital]",
+            "[-25]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "River Blessings",
+                "uniques": [ //boost food
+                    "[+2 Food] from [River] tiles [in all cities]", //spawn symbiont citystate
+                    "[+2 Food] from [Lakes] tiles [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Gifts from Upstream",
+                "uniques": [ //boost science and culture
+                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Waterland",
+                "uniques": [ //custom units and all promotion autoheal
+                    "Units in cities cost no Maintenance",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                    "[-100]% weight to this choice for AI decisions"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Waterpathing",
+                "uniques": [
+                    "[+10]% growth [in capital]",
+                    "[+2 Food] [in capital]"
+                ],
+                "requires": ["River Blessings"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Destined Find",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]" //spawn second symbiont
+                ],
+                "requires": ["Gifts from Upstream"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Way of the River Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                    "Get the leader title of [Lord [leaderName]]"
+                ]
+            }
+        ]
+    },
 ]
