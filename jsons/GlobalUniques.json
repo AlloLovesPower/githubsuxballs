@@ -24,6 +24,15 @@
         "Triggers a [Summon Melodia Origin Maker] event <for [Melodia] Civilizations> <upon discovering [Second Expansion] technology>",
         "Triggers a [Summon Fey Origin Maker] event <for [The Fey] Civilizations> <upon discovering [Second Expansion] technology>",
  
+        "Triggers a [Summon Great Prophet] event <for [Dragon Domain] Civilizations> <upon discovering [Begin Religion] technology>",
+        "Triggers a [Summon Great Prophet] event <for [Beyond] Civilizations> <upon discovering [Begin Religion] technology>",
+        "Triggers a [Summon Great Prophet] event <for [Melodia] Civilizations> <upon discovering [Begin Religion] technology>",
+        "Triggers a [Summon Great Prophet] event <for [The Fey] Civilizations> <upon discovering [Begin Religion] technology>",
+                "Triggers a [Summon Great Prophet] event <for [Dragon Domain] Civilizations> <upon discovering [Develop Religion] technology>",
+        "Triggers a [Summon Great Prophet] event <for [Beyond] Civilizations> <upon discovering [Develop Religion] technology>",
+        "Triggers a [Summon Great Prophet] event <for [Melodia] Civilizations> <upon discovering [Develop Religion] technology>",
+        "Triggers a [Summon Great Prophet] event <for [The Fey] Civilizations> <upon discovering [Develop Religion] technology>",
+  
         // TODO: Implement the uniques below
         // "[+20]% [Culture] [in all cities] <during a golden age>",
         // "[+20]% [Production] [in all cities] <during a golden age>",

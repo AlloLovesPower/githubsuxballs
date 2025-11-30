@@ -50,7 +50,15 @@
 			     "uniques": ["[1] free [Fey Origin Maker] units appear"] } ]
 	
 	}
-
+{
+		    "name": "Summon Great Prophet",
+		    "text": "Here's a Great Prophet for your religion! :)",
+		    "choices": [
+			    {"text": "omg thank you so much. i love you!",
+			     "uniques": ["[1] free [Great Prophet] units appear"] } ]
+	
+	}
+    
 
 
 

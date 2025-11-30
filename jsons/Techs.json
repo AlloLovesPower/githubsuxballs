@@ -94,6 +94,29 @@
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'To found a third City."
 			},
+            {
+				"name": "Begin Religion",
+				"row": 2,
+				"prerequisites": ["Second Expansion"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'To begin your religion."
+			},
+       ]
+	}
+            	{
+		"columnNumber": 4,
+		"era": "Fledgling era",
+		"techCost": 100,
+		"buildingCost": 120,
+		"wonderCost": 300,
+		"techs": [
+                        {
+				"name": "Develop Religion",
+				"row": 2,
+				"prerequisites": ["Begin Religion"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'To develop your religion."
+			},
        ]
 	}
 
