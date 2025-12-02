@@ -13,6 +13,18 @@
 		"cost": 0,
 		"uniques": ["Indicates the capital city"]
 	},
+        	{
+		"name": "Sense Hall",
+		"culture": 5,
+        "requiredTech": "Culturia",
+        "food": 2,
+		"cost": 100,
+		"hurryCostModifier": 40,
+        "uniques":[
+        "Gain control over [8] tiles [in this city]",
+        ],
+		"maintenance": 1,
+	},
 	{
 		"name": "Lounge",
 		"culture": 2,
