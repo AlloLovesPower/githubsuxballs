@@ -3,7 +3,7 @@
     {
         "name": "Coyote Spirit",
         "type": "Pantheon",
-        "uniques": ["[+4 Gold] from each Trade Route [in cities following this religion]"]
+        "uniques": ["[+4 Gold] from each Trade Route"]
     },
     {
         "name": "Sacred River",
