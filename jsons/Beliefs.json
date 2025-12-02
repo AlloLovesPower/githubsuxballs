@@ -1,10 +1,24 @@
 
 [
-
+    {
+        "name": "Coyote Spirit",
+        "type": "Pantheon",
+        "uniques": ["[+4 Gold] from each Trade Route [in cities following this religion]"]
+    },
     {
         "name": "Sacred River",
         "type": "Pantheon",
         "uniques": ["[+2 Culture, +1 Happiness] from [River] tiles [in cities following this religion]"]
+    },
+        {
+        "name": "Sacred Sky",
+        "type": "Pantheon",
+        "uniques": ["[+2 Culture, +1 Happiness] from [Plains] tiles [in cities following this religion]"]
+    },
+        {
+        "name": "Sacred Earth",
+        "type": "Pantheon",
+        "uniques": ["[+2 Culture, +1 Happiness] from [resource] tiles [in cities following this religion]"]
     },
 
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
@@ -14,6 +28,12 @@
         "type": "Follower",
         "uniques": ["[+2 Faith] from every [Wonder]"]
     },
+    
+        {
+        "name": "Divine empowerment",
+        "type": "Follower",
+        "uniques": ["[+2 Production] from every [Wonder]"]
+    },
 
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
@@ -22,5 +42,10 @@
         "type": "Founder",
         "uniques": ["[+1 Happiness] for each global city following this religion"]
     },
-
+    {
+        "name": "Digital Center",
+        "type": "Founder",
+        "uniques": ["[+1 Science] for each global city following this religion"]
+    },
+    
 ]

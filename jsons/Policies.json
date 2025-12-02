@@ -31,8 +31,8 @@
             {
                 "name": "Teepee",
                 "uniques": [
-                    "Provides the cheapest [Culture] building in your first [4] cities for free"
-                ],
+                    "[+1 Culture] from [Plains] tiles [in all cities]",                
+                      ],
                 "row": 1,
                 "column": 3
             },
