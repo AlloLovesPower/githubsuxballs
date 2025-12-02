@@ -97,9 +97,16 @@
             {
 				"name": "Begin Religion",
 				"row": 2,
-				"prerequisites": ["Second Expansion"],
+				"prerequisites": ["First Expansion"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'To begin your religion."
+			},
+                        {
+				"name": "Culturia",
+				"row": 3,
+				"prerequisites": ["First Expansion"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'For growing borders."
 			},
        ]
 	}
