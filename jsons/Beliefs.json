@@ -71,6 +71,6 @@
         {
         "name": "Workforce",
         "type": "Founder",
-        "uniques": ["[+1 Production] for each global city following this religion [in cities following this religion]"]
+        "uniques": ["[+1 Production] for each global city following this religion"]
     },
 ]
