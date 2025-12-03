@@ -20,6 +20,27 @@
         "type": "Pantheon",
         "uniques": ["[+2 Culture, +1 Happiness] from [resource] tiles [in cities following this religion]"]
     },
+            {
+        "name": "Sacred Ocean",
+        "type": "Pantheon",
+        "uniques": ["[+2 Culture, +1 Happiness] from [Ocean] tiles [in cities following this religion]"]
+    },
+                {
+        "name": "Sacred Lake",
+        "type": "Pantheon",
+        "uniques": ["[+2 Culture, +1 Happiness] from [Lakes] tiles [in cities following this religion]"]
+    },
+            {
+        "name": "Treewise",
+        "type": "Pantheon",
+        "uniques": [
+        "[+1 Culture, +1 Happiness] from [Light Forest] tiles [in cities following this religion]",
+        "[+1 Culture, +1 Happiness] from [Snow Forest] tiles [in cities following this religion]",
+        "[+1 Culture, +1 Happiness] from [Plains Forest] tiles [in cities following this religion]",
+        
+        ]
+    },
+    
 
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
 
@@ -47,5 +68,9 @@
         "type": "Founder",
         "uniques": ["[+1 Science] for each global city following this religion"]
     },
-    
+        {
+        "name": "Workforce",
+        "type": "Founder",
+        "uniques": ["[+1 Production] for each global city following this religion [in cities following this religion]"]
+    },
 ]
